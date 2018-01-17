@@ -1,5 +1,7 @@
 # AngularJS Phone Catalog Tutorial Application
 
+## This is my Cloned version exclusively for practice and trainning purposes on Angular JS
+
 
 ## Overview
 
