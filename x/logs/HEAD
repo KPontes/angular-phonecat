@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0970e05d951d2d1485e5b6700032d9729b77d1df Krishnan Pontes <krishnanpontes@gmail.com> 1511313905 +0000	clone: from https://github.com/angular/angular-phonecat.git
+0970e05d951d2d1485e5b6700032d9729b77d1df b160462dea8cfc4a78fb627aa5d3f5207dc853cb Krishnan Pontes <krishnanpontes@gmail.com> 1511314342 +0000	checkout: moving from master to step-0
+b160462dea8cfc4a78fb627aa5d3f5207dc853cb e3c206d0b6174c3bac58b1c40992a4b9ec817903 Krishnan Pontes <krishnanpontes@gmail.com> 1516147829 +0000	commit: get phone-list at json file
+e3c206d0b6174c3bac58b1c40992a4b9ec817903 e3c206d0b6174c3bac58b1c40992a4b9ec817903 Krishnan Pontes <krishnanpontes@gmail.com> 1516151638 +0000	checkout: moving from e3c206d0b6174c3bac58b1c40992a4b9ec817903 to step-0
+e3c206d0b6174c3bac58b1c40992a4b9ec817903 e3c206d0b6174c3bac58b1c40992a4b9ec817903 Krishnan Pontes <krishnanpontes@gmail.com> 1516151726 +0000	checkout: moving from step-0 to phone-json
